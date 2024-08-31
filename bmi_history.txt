@@ -1,0 +1,7 @@
+76.0,5.7,2.34,Underweight
+50.0,5.3,1.78,Underweight
+90.0,5.7,2.77,Underweight
+90.0,5.7,2.77,Underweight
+100.0,5.9,2.87,Underweight
+70.0,5.7,2.15,Underweight
+90.0,5.9,2.59,Underweight
